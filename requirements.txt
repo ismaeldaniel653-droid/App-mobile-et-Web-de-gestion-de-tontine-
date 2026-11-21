@@ -1,0 +1,12 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+drf-spectacular
+psycopg[binary]
+celery
+redis
+python-dotenv
+pytest
+pytest-django
+freezegun
+django-cors-headers
